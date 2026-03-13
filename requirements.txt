@@ -1,0 +1,15 @@
+# Web framework
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# PDF parsing
+pypdf>=4.0.0
+
+# Vector database (persistent, runs locally)
+chromadb>=0.5.0
+
+# Embedding model (sentence-transformers runs fully offline after first download)
+sentence-transformers>=3.0.0
+
+# Local LLM client – talks to a running Ollama server
+ollama>=0.4.0
