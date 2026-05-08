@@ -63,7 +63,7 @@ Answer + source citations (page number + relevance %)
 
 ```bash
 # 1. Clone the repo
-git clone <repo-url> ai-rag-chatbot
+git clone https://github.com/prathieshna/RAG-AI ai-rag-chatbot
 cd ai-rag-chatbot
 
 # 2. Run setup (creates venv, installs deps, pulls LLM model)
@@ -79,7 +79,7 @@ Open **http://localhost:3000** in your browser.
 
 ```powershell
 # 1. Clone the repo
-git clone <repo-url> ai-rag-chatbot
+git clone https://github.com/prathieshna/RAG-AI ai-rag-chatbot
 cd ai-rag-chatbot
 
 # 2. Run setup
